@@ -3,12 +3,12 @@ description: >-
   I’m a professional editor of academic and professional writing. I focus on the
   three C’s of style: Clarity, Coherence, and Concision. My goal is to help your
   writing succeed exactly how you want it.
-dateModified: '2016-06-28T17:34:34.780Z'
-datePublished: '2016-06-28T17:34:35.304Z'
+dateModified: '2016-06-28T17:34:35.466Z'
+datePublished: '2016-06-28T17:34:36.019Z'
 title: Introduction
 author: []
 sourcePath: _posts/2016-06-28-introduction.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
