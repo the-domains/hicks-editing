@@ -1,4 +1,3 @@
-layout_spectrum: 0.34512692014686763
 typography_spectrum: 0.6653393008746207
 color:
   brandStrength: 0.976452384609729
@@ -11,4 +10,10 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.34512692014686763
+author:
+  name: Benjamin Hicks
+  email: hickseditingservices@gmail.com
+  url: hickseditingservices.com
 name: Hicks Editing
+title: Your Writing with Elegance
