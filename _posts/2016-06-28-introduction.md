@@ -1,13 +1,13 @@
 ---
 description: Hicks Editing Services
-dateModified: '2016-06-30T21:45:58.281Z'
-datePublished: '2016-06-30T21:46:02.712Z'
+dateModified: '2016-06-30T21:46:07.369Z'
+datePublished: '2016-06-30T21:46:07.853Z'
 title: Introduction
 author: []
 sourcePath: _posts/2016-06-28-introduction.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ced0be81-1096-4768-a88e-6c9443b32ff4.jpg
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
